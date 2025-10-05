@@ -6,6 +6,10 @@ A **Streamlit Web App** is also included for real-time predictions.
 
 ---
 
+Try the SMS Spam Detector online here: [Open App](https://sms-spam-classifier-o2u9x7rjxnzrwzuamgsmqn.streamlit.app/)
+
+---
+
 ## ✨ Features
 - 📝 Text preprocessing: tokenization, stopword removal, stemming  
 - 🔎 Feature extraction using **TF-IDF Vectorizer**  
